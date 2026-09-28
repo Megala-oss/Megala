@@ -25,13 +25,13 @@ Currently building hands-on skills in **Microsoft Azure, PowerShell automation a
 
 ## 📂 Featured Projects
 
-### 🖥️ Windows Server Administration Lab
+### 🖥️ [Windows Server Administration Lab](https://github.com/Megala-oss/Megala/tree/main/docs)
 
 Hands-on documentation and PowerShell automation for common Windows Server administration activities.
 
 **Topics:** Active Directory, DNS, Group Policy, Server Health Checks, Service Monitoring
 
-### ☁️ Azure Infrastructure Lab
+### ☁️ [Azure Infrastructure Lab](https://github.com/Megala-oss/azure-infrastructure-lab)
 
 Hands-on Azure infrastructure automation using PowerShell.
 
