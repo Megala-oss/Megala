@@ -50,15 +50,13 @@ Hands-on Azure infrastructure automation using PowerShell.
 
 ---
 
-🏆 Certifications
-Microsoft Certified: Azure Administrator Associate (AZ-104)
-Credential ID: E59AD62D2453F58
-Microsoft Certified: Azure Fundamentals (AZ-900)
-Credential ID: 50B91FD35BA900ED
-Microsoft Certified: Azure Data Fundamentals (DP-900)
-Credential ID: F20D0A99AA6D22FA
-Microsoft Certified: Azure AI Fundamentals (AI-900)
-Credential ID: 81BA0C132BAF342A
+## 🏆 Certifications
+
+* 🟦 **Azure Administrator Associate (AZ-104)** — Credential ID: `E59AD62D2453F58`
+* 🟦 **Azure Fundamentals (AZ-900)** — Credential ID: `50B91FD35BA900ED`
+* 🟦 **Azure Data Fundamentals (DP-900)** — Credential ID: `F20D0A99AA6D22FA`
+* 🟦 **Azure AI Fundamentals (AI-900)** — Credential ID: `81BA0C132BAF342A`
+
 
 ---
 
