@@ -50,14 +50,15 @@ Hands-on Azure infrastructure automation using PowerShell.
 
 ---
 
-## 🚀 Currently Learning
-
-* Azure Administration
-* Azure Networking
-* Cloud Infrastructure
-* Infrastructure as Code
-* Advanced PowerShell Automation
-* Azure Security
+🏆 Certifications
+Microsoft Certified: Azure Administrator Associate (AZ-104)
+Credential ID: E59AD62D2453F58
+Microsoft Certified: Azure Fundamentals (AZ-900)
+Credential ID: 50B91FD35BA900ED
+Microsoft Certified: Azure Data Fundamentals (DP-900)
+Credential ID: F20D0A99AA6D22FA
+Microsoft Certified: Azure AI Fundamentals (AI-900)
+Credential ID: 81BA0C132BAF342A
 
 ---
 
